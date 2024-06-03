@@ -1,0 +1,22 @@
+{
+  "name": "codeceptjs-cjs-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "codeceptjs run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@codeceptjs/configure": "^1.0.1",
+    "@types/node": "^20.14.0",
+    "allure-codeceptjs": "^3.0.0-beta.1",
+    "codeceptjs": "^3.6.2",
+    "playwright": "^1.44.1",
+    "prettier": "^3.3.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
