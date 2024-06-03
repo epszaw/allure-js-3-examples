@@ -28,7 +28,7 @@ node_modules
 .repo
 
 #Mac OS stuff
-.DS_Store
+**/.DS_Store
 
 #Junk
 
@@ -40,3 +40,4 @@ dist-tests
 schema
 build
 test-results
+**/allure-results/
