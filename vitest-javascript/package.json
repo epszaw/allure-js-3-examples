@@ -9,7 +9,7 @@
   "keywords": [],
   "type": "module",
   "devDependencies": {
-    "allure-vitest": "^2.15.1",
+    "allure-vitest": "^3.0.0-beta.1",
     "rimraf": "^5.0.7",
     "vitest": "^1.6.0"
   }
