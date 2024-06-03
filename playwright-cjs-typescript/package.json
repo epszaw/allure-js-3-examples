@@ -1,0 +1,16 @@
+{
+  "name": "playwright-esm-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "scripts": {
+    "pretest": "rimraf ./out/allure-results",
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.14.0",
+    "allure-playwright": "^2.15.1",
+    "rimraf": "^5.0.7"
+  }
+}

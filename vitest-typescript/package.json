@@ -1,0 +1,17 @@
+{
+  "name": "vitest",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "pretest": "rimraf ./out/allure-results",
+    "test": "vitest run"
+  },
+  "keywords": [],
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "allure-vitest": "^2.15.1",
+    "rimraf": "^5.0.7",
+    "vitest": "^1.6.0"
+  }
+}
