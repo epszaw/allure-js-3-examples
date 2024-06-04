@@ -1,0 +1,17 @@
+{
+  "ts-node": {
+    "files": true
+  },
+  "compilerOptions": {
+    "target": "es2018",
+    "lib": ["es2018", "DOM"],
+    "esModuleInterop": true,
+    "module": "Node16",
+    "moduleResolution": "Node16",
+    "strictNullChecks": false,
+    "types": ["node"],
+    "declaration": true,
+    "skipLibCheck": true
+  },
+  "exclude": ["node_modules"]
+}
