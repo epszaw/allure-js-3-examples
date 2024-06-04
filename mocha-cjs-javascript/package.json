@@ -1,0 +1,15 @@
+{
+	"name": "mocha-cjs-javascript",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"scripts": {
+		"test": "node ./test/runner.js"
+	},
+	"devDependencies": {
+		"allure-mocha": "^3.0.0-beta.1",
+		"glob": "^10.4.1",
+		"mocha": "^10.2.0",
+		"prettier": "^3.3.0"
+	}
+}
