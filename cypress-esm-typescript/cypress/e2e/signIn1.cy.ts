@@ -1,11 +1,4 @@
-import {
-  attachment,
-  label,
-  issue,
-  tms,
-  link,
-  step
-} from "allure-js-commons"
+import { attachment, issue, label, link, step, tms } from "allure-js-commons"
 
 it("sample test", () => {
   label("foo", "bar");

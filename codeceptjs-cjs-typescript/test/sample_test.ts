@@ -1,7 +1,7 @@
-import { label, link, issue, tms, step, attachment } from "allure-js-commons";
+import { attachment, issue, label, link, step, tms } from "allure-js-commons";
 
 Feature('sample');
-Scenario('test something',  async ({ I }) => {
+Scenario('test something', async ({I}) => {
   await label("foo", "bar");
   await link("https://allurereport.org", "custom", "Allure Web-Site");
   await issue("https://allurereport.org/fake-issue/1", "Issue 1");
