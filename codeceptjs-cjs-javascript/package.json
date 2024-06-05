@@ -1,5 +1,5 @@
 {
-  "name": "codeceptjs-cjs",
+  "name": "codeceptjs-cjs-javascript",
   "version": "1.0.0",
   "description": "",
   "main": "codecept.conf.js",
@@ -13,7 +13,6 @@
     "@codeceptjs/configure": "^1.0.1",
     "allure-codeceptjs": "^3.0.0-beta.1",
     "codeceptjs": "^3.6.2",
-    "playwright": "^1.44.1",
-    "prettier": "^3.3.0"
+    "playwright": "^1.44.1"
   }
 }

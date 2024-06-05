@@ -1,5 +1,5 @@
 {
-  "name": "jest-cjs-javascript",
+  "name": "jest-esm-typescript",
   "version": "1.0.0",
   "type": "module",
   "description": "",
@@ -15,8 +15,6 @@
     "allure-jest": "^3.0.0-beta.1",
     "jest": "^29.6.4",
     "jest-circus": "^29.6.4",
-    "prettier": "^3.0.3",
-    "rimraf": "^5.0.1",
     "ts-jest": "^29.1.4"
   }
 }

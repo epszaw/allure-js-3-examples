@@ -1,5 +1,5 @@
 {
-  "name": "codeceptjs-cjs-ts",
+  "name": "codeceptjs-cjs-typescript",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,7 +15,6 @@
     "allure-codeceptjs": "^3.0.0-beta.1",
     "codeceptjs": "^3.6.2",
     "playwright": "^1.44.1",
-    "prettier": "^3.3.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.5"
   }

@@ -1,5 +1,5 @@
 {
-  "name": "allure-js-cucumber-demo",
+  "name": "cucumberjs-cjs-javascript",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -8,7 +8,6 @@
   },
   "devDependencies": {
     "@cucumber/cucumber": "^10.4.0",
-    "allure-cucumberjs": "^3.0.0-beta.1",
-    "prettier": "^3.3.0"
+    "allure-cucumberjs": "^3.0.0-beta.1"
   }
 }

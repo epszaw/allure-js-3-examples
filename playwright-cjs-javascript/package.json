@@ -1,5 +1,5 @@
 {
-  "name": "playwright-esm-typescript",
+  "name": "playwright-cjs-javascript",
   "version": "1.0.0",
   "description": "",
   "type": "commonjs",
