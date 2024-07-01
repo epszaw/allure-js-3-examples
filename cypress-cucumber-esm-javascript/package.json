@@ -1,0 +1,19 @@
+{
+  "name": "cypress-cucumber-esm-javascript",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.1.0",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.1",
+    "allure-cypress": "file:../../allure-js/packages/allure-cypress/package.tgz",
+    "cypress": "^13.6.0"
+  }
+}
