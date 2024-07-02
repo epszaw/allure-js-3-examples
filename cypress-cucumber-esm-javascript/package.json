@@ -13,7 +13,7 @@
   "devDependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^20.1.0",
     "@bahmutov/cypress-esbuild-preprocessor": "^2.2.1",
-    "allure-cypress": "file:../../allure-js/packages/allure-cypress/package.tgz",
+    "allure-cypress": "3.0.0-beta.1",
     "cypress": "^13.6.0"
   }
 }
